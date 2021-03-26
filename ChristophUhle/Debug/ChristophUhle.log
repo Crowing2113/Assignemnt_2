@@ -1,9 +1,0 @@
-﻿  Main.cpp
-A:\_UNI\ADS103\_Assignments\Assessment 2\Assesment_2\Main.cpp(18,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
-A:\_UNI\ADS103\_Assignments\Assessment 2\Assesment_2\Main.cpp(98,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-A:\_UNI\ADS103\_Assignments\Assessment 2\Assesment_2\Main.cpp(200,19): warning C4018: '<': signed/unsigned mismatch
-A:\_UNI\ADS103\_Assignments\Assessment 2\Assesment_2\Main.cpp(200,47): warning C4018: '<': signed/unsigned mismatch
-A:\_UNI\ADS103\_Assignments\Assessment 2\Assesment_2\Main.cpp(220,19): warning C4018: '<': signed/unsigned mismatch
-A:\_UNI\ADS103\_Assignments\Assessment 2\Assesment_2\Main.cpp(223,20): warning C4018: '<': signed/unsigned mismatch
-A:\_UNI\ADS103\_Assignments\Assessment 2\Assesment_2\Main.cpp(240,25): warning C4018: '<': signed/unsigned mismatch
-  ChristophUhle.vcxproj -> A:\_UNI\ADS103\_Assignments\Assessment 2\Source-ChristophUhle\ChristophUhle\Debug\ChristophUhle.exe
